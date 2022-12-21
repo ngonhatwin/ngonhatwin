@@ -7,4 +7,4 @@
 
 # caulenhrenhanh
 
-- [Bai 1].(
+- [Bai 1].(https://www.jdoodle.com/iembed/v0/Bu5)
