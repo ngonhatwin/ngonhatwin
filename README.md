@@ -5,7 +5,7 @@
 - [bai 2].(https://www.jdoodle.com/iembed/v0/BqV)
 - [bai 3].(https://www.jdoodle.com/iembed/v0/BqW)
 
- #[caulenhrenhanh]
+ #[caulenhrenhanh](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
 
 - [Bai 1].(https://www.jdoodle.com/iembed/v0/Bu5)
 - [bai 2].(https://www.jdoodle.com/iembed/v0/Bu7)
