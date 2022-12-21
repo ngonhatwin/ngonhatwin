@@ -18,3 +18,8 @@
 - [bai 2].(https://www.jdoodle.com/iembed/v0/Bud)
 - [bai 3].
 - [bai 4].(https://www.jdoodle.com/iembed/v0/Buf)
+
+#[baitapkiemtra]
+
+- [bai 1].(https://www.jdoodle.com/iembed/v0/Bui)
+- [bai 2].(https://www.jdoodle.com/iembed/v0/Buj)
