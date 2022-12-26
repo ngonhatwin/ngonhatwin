@@ -16,7 +16,7 @@
 
 - [bài 1](https://www.jdoodle.com/iembed/v0/Bub)
 - [bài 2](https://www.jdoodle.com/iembed/v0/Bud)
-- [bài 3]
+- [bài 3](https://www.jdoodle.com/iembed/v0/BAc)
 - [bài 4](https://www.jdoodle.com/iembed/v0/Buf)
 
 [4.bài tập kiểm tra]
