@@ -23,3 +23,6 @@
 
 - [bài 1](https://www.jdoodle.com/iembed/v0/Bui)
 - [bài 2](https://www.jdoodle.com/iembed/v0/Buj)
+
+[5. bài tập trên lớp]
+- [bài 1](https://www.jdoodle.com/iembed/v0/BAb)
