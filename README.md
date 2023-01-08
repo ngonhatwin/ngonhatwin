@@ -8,7 +8,7 @@
  [2.Câu lệnh rẻ nhánh](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
 
 - [bài 1](https://www.jdoodle.com/iembed/v0/Bu5)
-- [bài 2](https://www.jdoodle.com/iembed/v0/Bu7)
+- [bài 2](https://www.jdoodle.com/ia/BXD)
 - [bài 3](https://www.jdoodle.com/iembed/v0/Bu8)
 - [bài 4](https://www.jdoodle.com/iembed/v0/Bu9)
 
