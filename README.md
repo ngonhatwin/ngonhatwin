@@ -19,6 +19,9 @@
 - [bài 3](https://www.jdoodle.com/iembed/v0/BAc)
 - [bài 4](https://www.jdoodle.com/iembed/v0/Buf)
 
+[4.Hàm](
+- [bài 1](jdoodle.com/ia/BWV)
+
 [4.bài tập kiểm tra]
 
 - [bài 1](https://www.jdoodle.com/iembed/v0/Bui)
