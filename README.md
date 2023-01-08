@@ -35,4 +35,5 @@
 - [bài 1](https://www.jdoodle.com/ia/BXT)
 
 [6. bài tập lập trình]
-- [bài 1](
+- [bài 1](www.jdoodle.com/ia/BXV)
+- 
