@@ -35,5 +35,16 @@
 - [bài 1](https://www.jdoodle.com/ia/BXT)
 
 [6. bài tập lập trình]
-- [bài 1](www.jdoodle.com/ia/BXV)
-- 
+- [bài 1](https://www.jdoodle.com/ia/BXV)
+- [bài 2](https://www.jdoodle.com/ia/BYb)
+- [bài 3](https://www.jdoodle.com/ia/BYc)
+- [bài 4](https://www.jdoodle.com/ia/BYe)
+- [bài 5](https://www.jdoodle.com/ia/BYf)
+- [bài 6](https://www.jdoodle.com/ia/BYg)
+- [bài 7](https://www.jdoodle.com/ia/BYh)
+- [bài 8](https://www.jdoodle.com/ia/BYi)
+- [bài 9](https://www.jdoodle.com/ia/BYj)
+- [bài 10](https://www.jdoodle.com/ia/BYk)
+- [bài 11](https://www.jdoodle.com/ia/BYl)
+- [bài 12](https://www.jdoodle.com/ia/BYm)
+- [bài 13](https://www.jdoodle.com/ia/BYn)
