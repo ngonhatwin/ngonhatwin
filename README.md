@@ -33,3 +33,6 @@
 
 [5. bài tập trên lớp]
 - [bài 1](https://www.jdoodle.com/ia/BXT)
+
+[6. bài tập lập trình]
+- [bài 1](
