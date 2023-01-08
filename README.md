@@ -3,7 +3,7 @@
 
 - [Bài 1](https://www.jdoodle.com/ia/BXx)
 - [bài 2](https://www.jdoodle.com/ia/BXy)
-- [bài 3](https://www.jdoodle.com/iembed/v0/BqW)
+- [bài 3](https://www.jdoodle.com/ia/BXz)
 
  [2.Câu lệnh rẻ nhánh](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
 
