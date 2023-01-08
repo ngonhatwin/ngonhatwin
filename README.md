@@ -34,7 +34,7 @@
 [5. bài tập trên lớp]
 - [bài 1](https://www.jdoodle.com/ia/BXT)
 
-[6. bài tập lập trình]
+[6. bài tập lập trình](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 - [bài 1](https://www.jdoodle.com/ia/BXV)
 - [bài 2](https://www.jdoodle.com/ia/BYb)
 - [bài 3](https://www.jdoodle.com/ia/BYc)
