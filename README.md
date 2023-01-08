@@ -1,7 +1,7 @@
 # Ngôn Ngữ Lập Trình Căn Bản
 [1.Câu lệnh đơn](https://hoctructuyencntt.github.io/NNLT/Bai02.html)
 
-- [Bài 1](https://www.jdoodle.com/iembed/v0/BqT)
+- [Bài 1](jdoodle.com/a/5F1A)
 - [bài 2](https://www.jdoodle.com/iembed/v0/BqV)
 - [bài 3](https://www.jdoodle.com/iembed/v0/BqW)
 
