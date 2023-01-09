@@ -48,3 +48,7 @@
 - [bài 11](https://www.jdoodle.com/a/5HHx)
 - [bài 12](https://www.jdoodle.com/a/5HHz)
 - [bài 13](https://www.jdoodle.com/a/5HHC)
+- [bài 14](https://www.jdoodle.com/a/5FUz)
+- [bài 15]
+- [bài 16](https://www.jdoodle.com/a/5HYg)
+- [bài 17](https://www.jdoodle.com/a/5HZC)
