@@ -1,8 +1,8 @@
 # Ngôn Ngữ Lập Trình Căn Bản
 [1.Câu lệnh đơn](https://hoctructuyencntt.github.io/NNLT/Bai02.html)
 
-- [Bài 1](https://www.jdoodle.com/a/BXx)
-- [bài 2](https://www.jdoodle.com/ia/BXy)
+- [Bài 1](https://www.jdoodle.com/a/5F1A)
+- [bài 2](https://www.jdoodle.com/a/5F1D)
 - [bài 3](https://www.jdoodle.com/ia/BXz)
 
  [2.Câu lệnh rẻ nhánh](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
