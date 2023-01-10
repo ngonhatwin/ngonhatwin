@@ -52,3 +52,5 @@
 - [bài 15]
 - [bài 16](https://www.jdoodle.com/a/5HYg)
 - [bài 17](https://www.jdoodle.com/a/5HZC)
+[7. bài thi]
+- [bài 1](https://www.jdoodle.com/a/5HH5)
