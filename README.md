@@ -54,4 +54,4 @@
 - [bài 17](https://www.jdoodle.com/a/5HZC)
 
 [7. bài thi]
-- [bài 1](https://www.jdoodle.com/a/5HH5)
+- [bài 1](https://www.jdoodle.com/a/5I43)
